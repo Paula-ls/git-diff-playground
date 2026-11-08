@@ -1,4 +1,4 @@
-# Git Diff 游乐场
+# git-diff-playground：Git Diff 游乐场
 
 欢迎来到一个可以放心折腾的小仓库。这里用几篇 Markdown 文件演示 Git 如何记录变化。
 
